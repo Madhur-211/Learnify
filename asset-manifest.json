@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Learnify/static/css/main.5b0dc8f8.css",
+    "main.js": "/Learnify/static/js/main.81b1c554.js",
+    "static/js/453.8ab44547.chunk.js": "/Learnify/static/js/453.8ab44547.chunk.js",
+    "index.html": "/Learnify/index.html",
+    "main.5b0dc8f8.css.map": "/Learnify/static/css/main.5b0dc8f8.css.map",
+    "main.81b1c554.js.map": "/Learnify/static/js/main.81b1c554.js.map",
+    "453.8ab44547.chunk.js.map": "/Learnify/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b0dc8f8.css",
+    "static/js/main.81b1c554.js"
+  ]
+}
